@@ -126,7 +126,7 @@ Not a feed, but also part of the public output.
 
 - **Source:** [`world-atlas`](https://github.com/topojson/world-atlas) 110m, built from Natural Earth.
 - **Coverage:** 177 shapes keyed by ISO numeric ID, so we need a numeric to alpha-2 table. Singapore, Hong Kong, Malta and Bahrain have no shape and get clickable dots. Kosovo, N. Cyprus and Somaliland have no ID.
-- **Licence:** to confirm in M3, when the package is added.
+- **Licence:** `world-atlas` is ISC. Confirm the Natural Earth terms in M3, when the package is added.
 
 ## Running the scripts
 

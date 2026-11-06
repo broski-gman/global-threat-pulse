@@ -1,0 +1,3 @@
+# esbuild ships a working prebuilt binary, so its install script stays off.
+allowBuilds:
+  esbuild: false
