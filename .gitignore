@@ -1,0 +1,19 @@
+# dependencies and build output
+node_modules/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# secrets: never commit values, only .env.example
+.env
+.env.*
+!.env.example
+
+# raw upstream responses (may hold victim names, IPs or person names)
+fixtures/.private/
+
+.vercel/
+.DS_Store
+Thumbs.db
