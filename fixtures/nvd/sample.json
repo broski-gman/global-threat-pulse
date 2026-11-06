@@ -1,0 +1,295 @@
+{
+  "totalResults": 5,
+  "vulnerabilities": [
+    {
+      "cve": {
+        "id": "CVE-2024-27834",
+        "published": "2024-05-14T15:13:06.953",
+        "lastModified": "2026-11-05T12:56:20.313",
+        "vulnStatus": "Analyzed",
+        "metrics": {
+          "cvssMetricV31": [
+            {
+              "source": "nvd@nist.gov",
+              "type": "Primary",
+              "cvssData": {
+                "version": "3.1",
+                "vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:N",
+                "baseScore": 5.5,
+                "baseSeverity": "MEDIUM",
+                "attackVector": "LOCAL",
+                "attackComplexity": "LOW",
+                "privilegesRequired": "LOW",
+                "userInteraction": "NONE",
+                "scope": "UNCHANGED",
+                "confidentialityImpact": "NONE",
+                "integrityImpact": "HIGH",
+                "availabilityImpact": "NONE"
+              },
+              "exploitabilityScore": 1.8,
+              "impactScore": 3.6
+            },
+            {
+              "source": "134c704f-9b21-4f2e-91b3-4a467353bcc0",
+              "type": "Secondary",
+              "cvssData": {
+                "version": "3.1",
+                "vectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:N",
+                "baseScore": 5.5,
+                "baseSeverity": "MEDIUM",
+                "attackVector": "LOCAL",
+                "attackComplexity": "LOW",
+                "privilegesRequired": "LOW",
+                "userInteraction": "NONE",
+                "scope": "UNCHANGED",
+                "confidentialityImpact": "NONE",
+                "integrityImpact": "HIGH",
+                "availabilityImpact": "NONE"
+              },
+              "exploitabilityScore": 1.8,
+              "impactScore": 3.6
+            }
+          ],
+          "ssvcV203": [
+            {
+              "source": "134c704f-9b21-4f2e-91b3-4a467353bcc0",
+              "ssvcData": {
+                "timestamp": "2026-11-04T00:00:00+00:00",
+                "id": "CVE-2024-27834",
+                "options": [
+                  {
+                    "exploitation": "active"
+                  },
+                  {
+                    "automatable": "no"
+                  },
+                  {
+                    "technicalImpact": "partial"
+                  }
+                ],
+                "role": "CISA Coordinator",
+                "version": "2.0.3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cve": {
+        "id": "CVE-2026-119977",
+        "published": "2026-10-31T06:16:34.550",
+        "lastModified": "2026-11-04T12:52:38.683",
+        "vulnStatus": "Analyzed",
+        "metrics": {
+          "cvssMetricV31": [
+            {
+              "source": "security@wordfence.com",
+              "type": "Secondary",
+              "cvssData": {
+                "version": "3.1",
+                "vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
+                "baseScore": 8.1,
+                "baseSeverity": "HIGH",
+                "attackVector": "NETWORK",
+                "attackComplexity": "HIGH",
+                "privilegesRequired": "NONE",
+                "userInteraction": "NONE",
+                "scope": "UNCHANGED",
+                "confidentialityImpact": "HIGH",
+                "integrityImpact": "HIGH",
+                "availabilityImpact": "HIGH"
+              },
+              "exploitabilityScore": 2.2,
+              "impactScore": 5.9
+            }
+          ],
+          "ssvcV203": [
+            {
+              "source": "134c704f-9b21-4f2e-91b3-4a467353bcc0",
+              "ssvcData": {
+                "timestamp": "2026-11-03T00:00:00+00:00",
+                "id": "CVE-2026-119977",
+                "options": [
+                  {
+                    "exploitation": "active"
+                  },
+                  {
+                    "automatable": "no"
+                  },
+                  {
+                    "technicalImpact": "total"
+                  }
+                ],
+                "role": "CISA Coordinator",
+                "version": "2.0.3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cve": {
+        "id": "CVE-2026-118527",
+        "published": "2026-11-03T15:17:24.920",
+        "lastModified": "2026-11-03T17:48:12.873",
+        "vulnStatus": "Analyzed",
+        "metrics": {
+          "cvssMetricV31": [
+            {
+              "source": "3c1d8aa1-5a33-4ea4-8992-aadd6440af75",
+              "type": "Secondary",
+              "cvssData": {
+                "version": "3.1",
+                "vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:L/A:N",
+                "baseScore": 4.3,
+                "baseSeverity": "MEDIUM",
+                "attackVector": "NETWORK",
+                "attackComplexity": "LOW",
+                "privilegesRequired": "LOW",
+                "userInteraction": "NONE",
+                "scope": "UNCHANGED",
+                "confidentialityImpact": "NONE",
+                "integrityImpact": "LOW",
+                "availabilityImpact": "NONE"
+              },
+              "exploitabilityScore": 2.8,
+              "impactScore": 1.4
+            }
+          ],
+          "ssvcV203": [
+            {
+              "source": "134c704f-9b21-4f2e-91b3-4a467353bcc0",
+              "ssvcData": {
+                "timestamp": "2026-11-03T15:32:15.250213Z",
+                "id": "CVE-2026-118527",
+                "options": [
+                  {
+                    "exploitation": "active"
+                  },
+                  {
+                    "automatable": "no"
+                  },
+                  {
+                    "technicalImpact": "partial"
+                  }
+                ],
+                "role": "CISA Coordinator",
+                "version": "2.0.3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cve": {
+        "id": "CVE-2026-111357",
+        "published": "2026-10-15T21:17:13.190",
+        "lastModified": "2026-10-31T04:18:16.040",
+        "vulnStatus": "Analyzed",
+        "metrics": {
+          "cvssMetricV31": [
+            {
+              "source": "cve@mitre.org",
+              "type": "Secondary",
+              "cvssData": {
+                "version": "3.1",
+                "vectorString": "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H",
+                "baseScore": 7,
+                "baseSeverity": "HIGH",
+                "attackVector": "LOCAL",
+                "attackComplexity": "HIGH",
+                "privilegesRequired": "LOW",
+                "userInteraction": "NONE",
+                "scope": "UNCHANGED",
+                "confidentialityImpact": "HIGH",
+                "integrityImpact": "HIGH",
+                "availabilityImpact": "HIGH"
+              },
+              "exploitabilityScore": 1,
+              "impactScore": 5.9
+            }
+          ],
+          "ssvcV203": [
+            {
+              "source": "134c704f-9b21-4f2e-91b3-4a467353bcc0",
+              "ssvcData": {
+                "timestamp": "2026-10-15T00:00:00+00:00",
+                "id": "CVE-2026-111357",
+                "options": [
+                  {
+                    "exploitation": "active"
+                  },
+                  {
+                    "automatable": "no"
+                  },
+                  {
+                    "technicalImpact": "total"
+                  }
+                ],
+                "role": "CISA Coordinator",
+                "version": "2.0.3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cve": {
+        "id": "CVE-2026-97229",
+        "published": "2026-10-13T02:17:00.840",
+        "lastModified": "2026-11-02T13:30:16.800",
+        "vulnStatus": "Analyzed",
+        "metrics": {
+          "cvssMetricV31": [
+            {
+              "source": "cve@gitlab.com",
+              "type": "Secondary",
+              "cvssData": {
+                "version": "3.1",
+                "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
+                "baseScore": 10,
+                "baseSeverity": "CRITICAL",
+                "attackVector": "NETWORK",
+                "attackComplexity": "LOW",
+                "privilegesRequired": "NONE",
+                "userInteraction": "NONE",
+                "scope": "CHANGED",
+                "confidentialityImpact": "HIGH",
+                "integrityImpact": "HIGH",
+                "availabilityImpact": "HIGH"
+              },
+              "exploitabilityScore": 3.9,
+              "impactScore": 6
+            }
+          ],
+          "ssvcV203": [
+            {
+              "source": "134c704f-9b21-4f2e-91b3-4a467353bcc0",
+              "ssvcData": {
+                "timestamp": "2026-10-13T00:00:00+00:00",
+                "id": "CVE-2026-97229",
+                "options": [
+                  {
+                    "exploitation": "active"
+                  },
+                  {
+                    "automatable": "yes"
+                  },
+                  {
+                    "technicalImpact": "total"
+                  }
+                ],
+                "role": "CISA Coordinator",
+                "version": "2.0.3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

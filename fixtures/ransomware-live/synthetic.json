@@ -1,0 +1,38 @@
+[
+  {
+    "victim": "SYNTHETIC-ORG-A",
+    "group": "synthetic-group-1",
+    "attackdate": "2026-10-01 00:00:00",
+    "discovered": "2026-10-02 00:00:00",
+    "country": "GB",
+    "activity": "Manufacturing",
+    "website": "synthetic-a.invalid",
+    "screenshot": "",
+    "infostealer": "",
+    "press": null
+  },
+  {
+    "victim": "SYNTHETIC-ORG-B",
+    "group": "synthetic-group-2",
+    "attackdate": "2026-10-03 00:00:00",
+    "discovered": "2026-10-03 00:00:00",
+    "country": "US",
+    "activity": "Healthcare",
+    "website": "synthetic-b.invalid",
+    "screenshot": "",
+    "infostealer": "",
+    "press": null
+  },
+  {
+    "victim": "SYNTHETIC-ORG-C",
+    "group": "synthetic-group-1",
+    "attackdate": "2026-10-05 00:00:00",
+    "discovered": "2026-10-06 00:00:00",
+    "country": "",
+    "activity": "Not Found",
+    "website": "",
+    "screenshot": "",
+    "infostealer": "",
+    "press": null
+  }
+]

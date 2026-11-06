@@ -1,0 +1,805 @@
+{
+  "version": 359,
+  "values": [
+    {
+      "value": "APT1",
+      "uuid": "1cb7e1cc-d695-42b1-92f4-fd0112a3c9be",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+          "United States",
+          "Taiwan",
+          "Israel",
+          "Norway",
+          "United Arab Emirates",
+          "United Kingdom",
+          "Singapore",
+          "India",
+          "Belgium",
+          "South Africa",
+          "Switzerland",
+          "Canada",
+          "France",
+          "Luxembourg",
+          "Japan"
+        ],
+        "cfr-target-category": [
+          "Private sector",
+          "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "synonyms": [
+          "COMMENT PANDA",
+          "PLA Unit 61398",
+          "Comment Crew",
+          "Byzantine Candor",
+          "Group 3",
+          "TG-8223",
+          "Comment Group",
+          "Brown Fox",
+          "GIF89a",
+          "ShadyRAT",
+          "G0006"
+        ]
+      }
+    },
+    {
+      "value": "Grayling",
+      "uuid": "6714de29-4dd8-463c-99a3-77c9e80fa47d",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+          "Taiwan",
+          "United States",
+          "Vietnam",
+          "Solomon Islands"
+        ],
+        "cfr-target-category": [
+          "Biomedical",
+          "Government",
+          "Information technology"
+        ],
+        "country": "CN"
+      }
+    },
+    {
+      "value": "APT2",
+      "uuid": "0ca45163-e223-4167-b1af-f088ed14a93d",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+          "U.S. satellite and aerospace sector"
+        ],
+        "cfr-target-category": [
+          "Private sector",
+          "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "synonyms": [
+          "PLA Unit 61486",
+          "PUTTER PANDA",
+          "MSUpdater",
+          "4HCrew",
+          "SULPHUR",
+          "SearchFire",
+          "TG-6952",
+          "G0024"
+        ]
+      }
+    },
+    {
+      "value": "APT3",
+      "uuid": "d144c83e-2302-4947-9e24-856fbf7949ae",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+          "United States",
+          "United Kingdom",
+          "Hong Kong"
+        ],
+        "cfr-target-category": [
+          "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "synonyms": [
+          "GOTHIC PANDA",
+          "TG-0110",
+          "Group 6",
+          "UPS",
+          "Buckeye",
+          "Boyusec",
+          "BORON",
+          "BRONZE MAYFAIR",
+          "Red Sylvan",
+          "Brocade Typhoon"
+        ]
+      }
+    },
+    {
+      "value": "DarkHotel",
+      "uuid": "b8c8b96d-61e6-47b1-8e38-fd8ad5d9854d",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Korea (Republic of)",
+        "cfr-suspected-victims": [
+          "Japan",
+          "Russia",
+          "Taiwan",
+          "South Korea",
+          "China"
+        ],
+        "cfr-target-category": [
+          "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "KR",
+        "synonyms": [
+          "DUBNIUM",
+          "Fallout Team",
+          "Karba",
+          "Luder",
+          "Nemim",
+          "Nemin",
+          "Tapaoux",
+          "Pioneer",
+          "Shadow Crane",
+          "APT-C-06",
+          "SIG25",
+          "TUNGSTEN BRIDGE",
+          "T-APT-02",
+          "G0012",
+          "ATK52",
+          "Zigzag Hail"
+        ]
+      }
+    },
+    {
+      "value": "APT12",
+      "uuid": "48146604-6693-4db1-bd94-159744726514",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+          "Taiwan",
+          "Japan"
+        ],
+        "cfr-target-category": [
+          "Private sector",
+          "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "synonyms": [
+          "NUMBERED PANDA",
+          "TG-2754",
+          "BeeBus",
+          "Group 22",
+          "DynCalc",
+          "Calc Team",
+          "DNSCalc",
+          "Crimson Iron",
+          "IXESHE",
+          "BRONZE GLOBE",
+          "Hexagon Typhoon"
+        ]
+      }
+    },
+    {
+      "value": "APT16",
+      "uuid": "1f73e14f-b882-4032-a565-26dc653b0daf",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+          "Japan",
+          "Taiwan"
+        ],
+        "cfr-target-category": [
+          "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "synonyms": [
+          "SVCMONDR",
+          "G0023"
+        ]
+      }
+    },
+    {
+      "value": "APT17",
+      "uuid": "99e30d89-9361-4b73-a999-9e5ff9320bcb",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+          "United States",
+          "Netherlands",
+          "Italy",
+          "Japan",
+          "United Kingdom",
+          "Belgium",
+          "Russia",
+          "Indonesia",
+          "Germany",
+          "Switzerland",
+          "China"
+        ],
+        "cfr-target-category": [
+          "Government",
+          "Private sector",
+          "Civil society"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "synonyms": [
+          "Group 8",
+          "AURORA PANDA",
+          "Hidden Lynx",
+          "Tailgater Team",
+          "Dogfish",
+          "BRONZE KEYSTONE",
+          "G0025",
+          "Group 72",
+          "G0001",
+          "Axiom",
+          "HELIUM",
+          "Heart Typhoon"
+        ]
+      }
+    },
+    {
+      "value": "APT18",
+      "uuid": "9a683d9c-8f7d-43df-bba2-ad0ca71e277c",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+          "United States"
+        ],
+        "cfr-target-category": [
+          "Government",
+          "Private sector",
+          "Civil society"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "synonyms": [
+          "DYNAMITE PANDA",
+          "TG-0416",
+          "SCANDIUM",
+          "PLA Navy",
+          "Wekby",
+          "G0026",
+          "Satin Typhoon"
+        ]
+      }
+    },
+    {
+      "value": "APT19",
+      "uuid": "066d25c1-71bd-4bd4-8ca7-edbba00063f4",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+          "United States"
+        ],
+        "cfr-target-category": [
+          "Private sector",
+          "Military"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "synonyms": [
+          "DEEP PANDA",
+          "Codoso",
+          "WebMasters",
+          "KungFu Kittens",
+          "Black Vine",
+          "TEMP.Avengers",
+          "Group 13",
+          "PinkPanther",
+          "Shell Crew",
+          "BRONZE FIRESTONE",
+          "G0009",
+          "G0073",
+          "Pupa",
+          "Sunshop Group",
+          "Checkered Typhoon"
+        ]
+      }
+    },
+    {
+      "value": "Naikon",
+      "uuid": "2f1fd017-9df6-4759-91fb-e7039609b5ff",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+          "India",
+          "Saudi Arabia",
+          "Vietnam",
+          "Myanmar",
+          "Singapore",
+          "Thailand",
+          "Malaysia",
+          "Cambodia",
+          "China",
+          "Philippines",
+          "South Korea",
+          "United States",
+          "Indonesia",
+          "Laos"
+        ],
+        "cfr-target-category": [
+          "Government",
+          "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "synonyms": [
+          "PLA Unit 78020",
+          "OVERRIDE PANDA",
+          "Camerashy",
+          "BRONZE GENEVA",
+          "G0019",
+          "Naikon",
+          "BRONZE STERLING",
+          "G0013",
+          "NAIKON CASTLE"
+        ]
+      }
+    },
+    {
+      "value": "APT30",
+      "uuid": "d3881afe-f781-4c53-9f68-33487a119a59",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+          "United States",
+          "South Korea",
+          "Saudi Arabia",
+          "Thailand",
+          "Vietnam",
+          "Malaysia",
+          "India"
+        ],
+        "cfr-target-category": [
+          "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "synonyms": [
+          "G0013",
+          "ISTHMUS CASTLE"
+        ]
+      }
+    },
+    {
+      "value": "LOTUS PANDA",
+      "uuid": "32fafa69-fe3c-49db-afd4-aac2664bcf0d",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+          "Japan",
+          "Philippines",
+          "Hong Kong",
+          "Indonesia",
+          "Taiwan",
+          "Vietnam"
+        ],
+        "cfr-target-category": [
+          "Military",
+          "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "synonyms": [
+          "Spring Dragon",
+          "ST Group",
+          "DRAGONFISH",
+          "BRONZE ELGIN",
+          "ATK1",
+          "G0030",
+          "Red Salamander",
+          "Lotus BLossom",
+          "Billbug",
+          "Lotus Blossom"
+        ]
+      }
+    },
+    {
+      "value": "APT27",
+      "uuid": "834e0acd-d92a-4e38-bb14-dc4159d7cb32",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Unknown",
+        "cfr-suspected-victims": [
+          "United States",
+          "United Kingdom",
+          "France",
+          "Japan",
+          "Taiwan",
+          "India",
+          "Canada",
+          "China",
+          "Thailand",
+          "Israel",
+          "Australia",
+          "South Korea",
+          "Russia",
+          "Iran",
+          "Turkey"
+        ],
+        "cfr-target-category": [
+          "Government",
+          "Private sector"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "synonyms": [
+          "GreedyTaotie",
+          "TG-3390",
+          "EMISSARY PANDA",
+          "TEMP.Hippo",
+          "Red Phoenix",
+          "Budworm",
+          "Group 35",
+          "ZipToken",
+          "Iron Tiger",
+          "BRONZE UNION",
+          "Lucky Mouse",
+          "G0027",
+          "Iron Taurus",
+          "Earth Smilodon",
+          "Circle Typhoon",
+          "Linen Typhoon",
+          "SHORE CASTLE"
+        ]
+      }
+    },
+    {
+      "value": "APT10",
+      "uuid": "56b37b05-72e7-4a89-ba8a-61ce45269a8c",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+          "Japan",
+          "India",
+          "South Africa",
+          "South Korea",
+          "Sweden",
+          "United States",
+          "Canada",
+          "Australia",
+          "France",
+          "Finland",
+          "United Kingdom",
+          "Brazil",
+          "Thailand",
+          "Switzerland",
+          "Norway"
+        ],
+        "cfr-target-category": [
+          "Private sector",
+          "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "synonyms": [
+          "STONE PANDA",
+          "Menupass Team",
+          "happyyongzi",
+          "POTASSIUM",
+          "Red Apollo",
+          "CVNX",
+          "HOGFISH",
+          "Cloud Hopper",
+          "BRONZE RIVERSIDE",
+          "ATK41",
+          "G0045",
+          "Granite Taurus",
+          "TA429",
+          "Cicada",
+          "Purple Typhoon"
+        ]
+      }
+    },
+    {
+      "value": "Hellsing",
+      "uuid": "af482dde-9e47-48d5-9cb2-cf8f6d6303d3",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+          "Malaysia",
+          "Indonesia",
+          "Philippines",
+          "United States",
+          "India"
+        ],
+        "cfr-target-category": [
+          "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN"
+      }
+    },
+    {
+      "value": "APT15",
+      "uuid": "3501fbf2-098f-47e7-be6a-6b0ff5742ce8",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+          "European Union",
+          "India",
+          "United Kingdom",
+          "Germany"
+        ],
+        "cfr-target-category": [
+          "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "synonyms": [
+          "VIXEN PANDA",
+          "Ke3Chang",
+          "Playful Dragon",
+          "Metushy",
+          "Lurid",
+          "Social Network Team",
+          "Royal APT",
+          "BRONZE PALACE",
+          "BRONZE DAVENPORT",
+          "BRONZE IDLEWOOD",
+          "NICKEL",
+          "G0004",
+          "Red Vulture",
+          "Nylon Typhoon",
+          "Mirage",
+          "RIVER CASTLE"
+        ]
+      }
+    },
+    {
+      "value": "APT14",
+      "uuid": "c82c904f-b3b4-40a2-bf0d-008912953104",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+          "United States",
+          "United Kingdom",
+          "Germany",
+          "Australia",
+          "Sweden"
+        ],
+        "cfr-target-category": [
+          "Government",
+          "Military"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "motive": "Espionage",
+        "synonyms": [
+          "ANCHOR PANDA",
+          "QAZTeam",
+          "ALUMINUM"
+        ]
+      }
+    },
+    {
+      "value": "APT21",
+      "uuid": "b80f4788-ccb2-466d-ae16-b397159d907e",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+          "Mongolia",
+          "Kazakhstan",
+          "Tajikistan",
+          "Germany",
+          "United Kingdom",
+          "India",
+          "Kyrgyzstan",
+          "South Korea",
+          "United States",
+          "Chile",
+          "Russia",
+          "China",
+          "Spain",
+          "Canada",
+          "Morocco"
+        ],
+        "cfr-target-category": [
+          "Government",
+          "Military"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "synonyms": [
+          "HAMMER PANDA",
+          "TEMP.Zhenbao",
+          "NetTraveler"
+        ]
+      }
+    },
+    {
+      "value": "DAGGER PANDA",
+      "uuid": "32c534b9-abec-4823-b223-a810f897b47b",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+          "South Korea",
+          "United States",
+          "Japan",
+          "Germany",
+          "China"
+        ],
+        "cfr-target-category": [
+          "Government",
+          "Military"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "synonyms": [
+          "IceFog",
+          "Trident",
+          "RedFoxtrot",
+          "Red Wendigo",
+          "PLA Unit 69010",
+          "UAT-7290",
+          "Red Foxtrot"
+        ]
+      }
+    },
+    {
+      "value": "Beijing Group",
+      "uuid": "da754aeb-a86d-4874-b388-d1d2028a56be",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+          "United States",
+          "Canada",
+          "United Kingdom",
+          "Switzerland",
+          "Hong Kong",
+          "Australia",
+          "India",
+          "Taiwan",
+          "China",
+          "Denmark"
+        ],
+        "cfr-target-category": [
+          "Private sector",
+          "Civil society"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "synonyms": [
+          "SNEAKY PANDA",
+          "Elderwood",
+          "Elderwood Gang",
+          "SIG22",
+          "G0066"
+        ]
+      }
+    },
+    {
+      "value": "SAMURAI PANDA",
+      "uuid": "2fb07fa4-0d7f-43c7-8ff4-b28404313fe7",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+          "United States",
+          "United Kingdom",
+          "Hong Kong"
+        ],
+        "cfr-target-category": [
+          "Private sector",
+          "Military"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "synonyms": [
+          "PLA Navy",
+          "Wisp Team"
+        ]
+      }
+    },
+    {
+      "value": "TEMPER PANDA",
+      "uuid": "ac4bce1f-b3ec-4c44-bd36-b6cc986b319b",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfr-suspected-victims": [
+          "Hong Kong",
+          "United States"
+        ],
+        "cfr-target-category": [
+          "Government",
+          "Private sector",
+          "Civil society"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "CN",
+        "synonyms": [
+          "Admin338",
+          "Team338",
+          "MAGNESIUM",
+          "admin@338",
+          "G0018"
+        ]
+      }
+    },
+    {
+      "value": "Flying Kitten",
+      "uuid": "ba724df5-9aa0-45ca-8e0e-7101c208ae48",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
+        "cfr-suspected-victims": [
+          "United States",
+          "Iranian internet activists"
+        ],
+        "cfr-target-category": [
+          "Military",
+          "Civil society"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "IR",
+        "synonyms": [
+          "SaffronRose",
+          "Saffron Rose",
+          "AjaxSecurityTeam",
+          "Ajax Security Team",
+          "Group 26",
+          "Sayad"
+        ]
+      }
+    },
+    {
+      "value": "Cutting Kitten",
+      "uuid": "11e17436-6ede-4733-8547-4ce0254ea19e",
+      "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
+        "cfr-suspected-victims": [
+          "United States",
+          "Bank of America",
+          "US Bancorp",
+          "Fifth Third Bank",
+          "Citigroup",
+          "PNC",
+          "BB&T",
+          "Wells Fargo",
+          "Capital One",
+          "HSBC",
+          "AT&T",
+          "NYSE"
+        ],
+        "cfr-type-of-incident": [
+          "Denial of service"
+        ],
+        "country": "IR",
+        "synonyms": [
+          "ITsecTeam"
+        ]
+      }
+    }
+  ]
+}
