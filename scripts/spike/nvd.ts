@@ -9,10 +9,11 @@ type NvdResponse = {
 };
 
 /**
- * Only what the Patch Clock needs. References can credit named people, and CPE version strings
- * look like IP addresses. Vendor and product come from KEV instead.
+ * Only the fields the Patch Clock shows. References can credit named people, while descriptions
+ * and CPE data hold version strings such as 25.1.1.3 that match the IP check.
+ * Vendor and product come from KEV instead.
  */
-const CVE_FIELDS = ["id", "published", "lastModified", "vulnStatus", "metrics", "descriptions"];
+const CVE_FIELDS = ["id", "published", "lastModified", "vulnStatus", "metrics"];
 
 export const nvd: Spike = {
   id: "nvd",
