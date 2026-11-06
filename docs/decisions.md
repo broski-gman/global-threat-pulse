@@ -38,7 +38,7 @@ MISP victim lists have no dates, so they can't support a 7-day vs 90-day compari
 
 ## D5: Repo and open items
 
-- **Repo:** public, named `global-threat-pulse`. Which GitHub account owns it is still open.
+- **Repo:** public, at `broski-gman/global-threat-pulse`. Commits so far are authored as `QMC4`, the machine's global git identity.
 - **Contact address:** to follow. `FEED_CONTACT` stays empty until then, and SANS asks for contact details.
 - **Domain:** `globalthreatpulse.io` is being purchased, so nothing depends on it yet.
 
@@ -48,5 +48,5 @@ Made by the lead engineer, for review.
 
 - **TypeScript 6.0, not 7.0.** `typescript-eslint` doesn't support 7.0 yet (its peer range is below 6.1).
 - **Committed fixtures use field allowlists, and real ransomware.live samples drop victim fields.** This follows principle 5 and the ransomware.live terms, and differs from the brief's plain "save a sample".
-- **Upstream free text stays out of fixtures and snapshots.** NVD and KEV text contains version strings that match the IP check, and MISP text can name people. Patch Clock cards don't need it.
+- **Upstream free text stays out of snapshots.** NVD and KEV text can contain version strings that match the IP check, and MISP text can name people. Patch Clock cards don't need it. NVD and MISP text also stays out of fixtures. KEV's `shortDescription` stays in its fixture because the data is CC0 and the sample passes the safety test.
 - **Layer 3 Radar "origin" won't be shown as an attack source.** It is a Cloudflare data centre location. Pulse pairs use layer 7, with a caption saying the source is a machine's location.
